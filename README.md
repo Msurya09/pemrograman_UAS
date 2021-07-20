@@ -13,6 +13,6 @@ Tampilan Ubah Data warga
 
 ![3](https://user-images.githubusercontent.com/81518784/126274504-0dd235c8-8b07-4bf3-be05-b11f17de6ad8.png)
 
-Tampilan Ubah Data warga
+Tampilan Iuran Warga
 
 ![4](https://user-images.githubusercontent.com/81518784/126274583-43f05400-ead4-4a66-9b0b-e0bd58630868.png)
