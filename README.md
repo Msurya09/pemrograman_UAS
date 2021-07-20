@@ -17,6 +17,6 @@ Tampilan Iuran Warga
 
 ![4](https://user-images.githubusercontent.com/81518784/126274583-43f05400-ead4-4a66-9b0b-e0bd58630868.png)
 
-Tampilan Edit Iuran Warga
+Tampilan tambah Iuran Warga
 
 ![5](https://user-images.githubusercontent.com/81518784/126274841-474d4cad-f607-471e-b300-1d1d9ee51327.png)
