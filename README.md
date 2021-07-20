@@ -7,7 +7,7 @@ Tampilan Table di Xampp
 Tampilan Data Master Warga
 ![2](https://user-images.githubusercontent.com/81518784/126274460-4820cf6c-1ea9-45a1-b3ff-3df5aa1137f9.png)
 
-Tampilan Tambah Data warga
+Tampilan Ubah Data warga
 ![3](https://user-images.githubusercontent.com/81518784/126274504-0dd235c8-8b07-4bf3-be05-b11f17de6ad8.png)
 
 Tampilan Ubah Data warga
